@@ -1,0 +1,14 @@
+Package: exgame
+Version: 1.2
+Architecture: all
+Maintainer: exfurr-bash <github.com/exfurr-bash/game>
+Depends: love
+Filename: ./exgame.deb
+Size: 3143456
+MD5sum: 4ee143b6d91d8da1fdc452c79465379b
+SHA1: 38846472101ea562d2da1ea13fd8b78e3e48aedc
+SHA256: 1611fed1f8b26788f7cd136ee0ca37f713f8c4bd6fe6435d0c2230880d81f5b4
+Section: games
+Priority: optional
+Description: Jogo desenvolvido com Love2D
+
