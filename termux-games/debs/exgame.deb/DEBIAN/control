@@ -1,0 +1,8 @@
+Package: exgame
+Version: 1.2
+Architecture: all
+Maintainer: exfurr-bash <github.com/exfurr-bash/game>
+Description: Jogo desenvolvido com Love2D
+Depends: love
+Section: games
+Priority: optional
